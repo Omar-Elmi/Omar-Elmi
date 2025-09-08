@@ -19,11 +19,4 @@
 
 ---
 
-### 📈 Featured Projects
-- **Smart Medicine Cabinet** – SwiftUI app + IoT prototype with chatbot integration  
-- **Community Notes Analysis** – Large-scale text analysis using NLP and visualisation techniques  
-- **Web Accessibility Project** – Inclusive website development for neurodivergent business leaders  
-
----
-
 📫 Let’s connect: [LinkedIn]([https://www.linkedin.com/in/omar-elmi)  
