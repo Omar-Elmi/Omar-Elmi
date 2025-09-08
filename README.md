@@ -19,4 +19,5 @@
 
 ---
 
-📫 Let’s connect: [LinkedIn]([https://www.linkedin.com/in/omar-elmi)  
+📫 Let’s connect: www.linkedin.com/in/omarelmi-
+
