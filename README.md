@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Omar-Elmi/Omar-Elmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I’m Omar 👋  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Final year Computer Science student at Cardiff University  
+💡 Interested in scalable systems, secure solutions, and problem-solving through code and data  
+🌱 Currently learning more about cloud, DevOps, and cybersecurity practices  
+💼 Experience as a Data Analyst Intern (Cardiff University) and Web Development Intern (ZoEtik)  
+🤝 Open to collaboration on projects that explore data-driven insights, security, or innovative digital tools  
+
+---
+
+### 🔧 Skills & Tools
+- Databases & Data Analysis  
+- Software Development & Algorithms  
+- Web Development & Accessibility  
+- Secure Communication & Networking  
+- Team Collaboration & Agile Practices  
+
+---
+
+### 📈 Featured Projects
+- **Smart Medicine Cabinet** – SwiftUI app + IoT prototype with chatbot integration  
+- **Community Notes Analysis** – Large-scale text analysis using NLP and visualisation techniques  
+- **Web Accessibility Project** – Inclusive website development for neurodivergent business leaders  
+
+---
+
+📫 Let’s connect: [LinkedIn]([https://www.linkedin.com/in/omar-elmi)  
